@@ -48,7 +48,7 @@ To run this project, you need to have Docker installed and running on your machi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/madonis04/Churn-Prediction.git](https://github.com/Madonis04/Churn-Prediction.git)
+    git clone https://github.com/Madonis04/Churn-Prediction.git
     cd Churn-Prediction
     ```
 
