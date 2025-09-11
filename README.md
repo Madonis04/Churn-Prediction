@@ -10,6 +10,23 @@ This project is a complete end-to-end machine learning pipeline that predicts cu
 - **Containerization**: Docker
 - **Deployment**: Designed for cloud services like AWS App Runner
 
+## Screenshots
+
+### 1. Interactive API Documentation
+The API is automatically documented using Swagger UI, available at the `/docs` endpoint.
+
+![API Documentation](assets/api_docs_main.png)
+
+### 2. Batch Prediction with File Upload
+The `/predict-file` endpoint allows for predicting churn on a batch of customers by uploading a JSON file.
+
+![File Upload Endpoint](assets/api_file_upload.png)
+
+### 3. Prediction Output
+A successful request returns a JSON object with the prediction and churn probability for each customer in the uploaded file.
+
+![Prediction Output](assets/api_prediction_output.png)
+
 ## Project Structure
 
 ```
