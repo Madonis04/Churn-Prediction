@@ -8,7 +8,6 @@ This project is a complete end-to-end machine learning pipeline that predicts cu
 - **Model Training**: Scikit-learn, LightGBM
 - **API Development**: FastAPI
 - **Containerization**: Docker
-- **Deployment**: Designed for cloud services like AWS App Runner
 
 ## Screenshots
 
